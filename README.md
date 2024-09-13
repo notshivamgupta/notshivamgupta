@@ -7,9 +7,9 @@
 </p>
 
 - :school: I am a `MCA Student` at [NIT Jamshedpur](https://www.nitjsr.ac.in/)
-- :trophy: Passionate Android Developer 
+- :trophy: Passionate **Android Developer** 
 - 🌱 I’m currently learning **Spring Boot**
-- :thinking: I’m currently open for a new `job opportunity`
+- :thinking: I’m currently open for a new **job opportunity**
 - 📫 How to reach me **shivam.nit08@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
